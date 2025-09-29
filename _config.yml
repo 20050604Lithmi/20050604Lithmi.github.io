@@ -1,0 +1,11 @@
+title: Lithmi Sehathna
+description: e-Portfolio
+theme: minima
+header_pages:
+  - education.md
+  - work.md
+  - qualifications.md
+  - projects.md
+  - skills.md
+  - hobbies.md
+  - contact.md
