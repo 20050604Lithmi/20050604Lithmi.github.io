@@ -1,6 +1,6 @@
 title: Lithmi Sehathna
 description: e-Portfolio
-theme: minima
+theme: jekyll-theme-cayman
 header_pages:
   - education.md
   - work.md
